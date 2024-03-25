@@ -1,3 +1,5 @@
+A Simple Weather App that forecast weather all around the world using the weatherAPI. Created with ReactJS.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
