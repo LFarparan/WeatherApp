@@ -1,0 +1,25 @@
+.mainHeader{
+    width: 100vw;
+    background-color: #141427;
+    position: sticky;
+    top: 0px;
+}
+
+.headerContainer{
+    margin: auto;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    padding: 2vh;
+}
+
+h2{
+    color: #F4FAFD;
+}
+
+img.logo {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 10px;
+    filter: invert(100%) sepia(29%) saturate(744%) hue-rotate(172deg) brightness(100%) contrast(99%);
+}
