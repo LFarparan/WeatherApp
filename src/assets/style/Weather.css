@@ -1,20 +1,18 @@
 .weatherContainer{
-    background-color: white;
-    width: 100vw;
-    padding: 60px;
+    background-color: #071952;
+    padding: 60px 0px;
     color: #F4FAFD;
    
 }
 
 .weatherBox {
     width: max(400px, 35vw);
-    height: max(400px, 50vh);
+    height: max(450px, 55vh);
     background-color: #3459B5;
     margin: auto;
     padding: 20px;
     border-radius: 30px;
-    box-shadow: 5px 5px 10px #304987;
-
+    box-shadow: 5px 5px 5px #17223c;
 }
 
 h3{

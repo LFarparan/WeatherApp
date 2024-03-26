@@ -1,8 +1,9 @@
 .mainHeader{
-    width: 100vw;
+    width: auto;
     background-color: #141427;
     position: sticky;
     top: 0px;
+    z-index: 1;
 }
 
 .headerContainer{
